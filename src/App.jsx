@@ -7,7 +7,7 @@ function App() {
   const { isDark, toggleTheme } = useTheme();
 
   return (
-    <Router basename="/Portfolio-v2">
+    <Router basename="/HirushaKodikara">
       <Routes>
         <Route
           path="/"
