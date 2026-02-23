@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Hirusha Kodikara",
-  title: "Graduate in Department of Accounting - USJP * CA past Finalist * ACCA Past Finalist * Audit Senior in KPMG Sri Lanka *Toastmaster",
+  title: "Graduate in Department of Accounting - USJP * CA passed Finalist * ACCA  Finalist * Audit Senior in KPMG Sri Lanka *Toastmaster",
   location: "Colombo, Sri Lanka",
   tagline: "Passionate about Accounting and Finance, leadership, and continuous self-improvement.",
 };
@@ -19,13 +19,13 @@ export const education = [
   },
   {
     id: 2,
-    degree: "Charted Accountant - Past Finalist - CA Sri Lanka",
+    degree: "Charted Accountant - Passed Finalist - CA Sri Lanka",
     university: "Institute of Chartered Accountants of Sri Lanka",
     duration: "2023 - 2026",
   },
   {
     id: 3,
-    degree: "ACCA - Past Finalist - Association of Chartered Certified Accountants",
+    degree: "ACCA - Finalist - Association of Chartered Certified Accountants",
     university: "Association of Chartered Certified Accountants",
     duration: "2025 - present",
   },
